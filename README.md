@@ -13,7 +13,9 @@ If you have never heard of make.fun, this page is a complete walkthrough: what t
 platform pays for, the four things you need before you begin, and the exact order of
 operations from a brand-new account to a submitted entry and a claimed reward. Read it
 top to bottom once, then follow it step by step. It should take about fifteen minutes
-to read and an evening to act on.
+to read and an evening to act on — and every step below was written to be followed in
+order, so do not skip ahead to submitting before you have built something worth
+submitting.
 
 ## The idea in one paragraph
 
